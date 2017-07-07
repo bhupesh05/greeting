@@ -1,0 +1,8 @@
+/home/bhupesh/Documents/dotnet core/greeting/bin/Debug/netcoreapp1.1/greeting.deps.json
+/home/bhupesh/Documents/dotnet core/greeting/bin/Debug/netcoreapp1.1/greeting.runtimeconfig.json
+/home/bhupesh/Documents/dotnet core/greeting/bin/Debug/netcoreapp1.1/greeting.runtimeconfig.dev.json
+/home/bhupesh/Documents/dotnet core/greeting/bin/Debug/netcoreapp1.1/greeting.dll
+/home/bhupesh/Documents/dotnet core/greeting/bin/Debug/netcoreapp1.1/greeting.pdb
+/home/bhupesh/Documents/dotnet core/greeting/obj/Debug/netcoreapp1.1/greeting.AssemblyInfo.cs
+/home/bhupesh/Documents/dotnet core/greeting/obj/Debug/netcoreapp1.1/greeting.dll
+/home/bhupesh/Documents/dotnet core/greeting/obj/Debug/netcoreapp1.1/greeting.pdb
